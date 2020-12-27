@@ -1,0 +1,14 @@
+
+#ulTasks li.done {
+    color: #6c757d;
+    text-decoration: line-through;
+   }  
+  
+#ulTasks li{
+  background: linear-gradient(to right, #99ffcc 0%, #ccffff 100%);
+}
+#ulTasks{
+  border-radius: 5px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.05), 0 4px 5px 0 rgba(0, 0, 0, 0.2);
+}
+
